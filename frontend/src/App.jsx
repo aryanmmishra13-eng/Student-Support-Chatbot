@@ -1,8 +1,8 @@
  import { useState } from "react";
-import Sidebar from "./components/sidebar";
-import Header from "./components/header";
-import ChatWindow from "./components/chatwindow";
-import InputBox from "./components/inputbox";
+import Sidebar from "./components/Sidebar";
+import Header from "./components/Header";
+import ChatWindow from "./components/Chatwindow";
+import InputBox from "./components/Inputbox";
 import "./App.css";
 import { sendMessage } from "./services/api";
 
