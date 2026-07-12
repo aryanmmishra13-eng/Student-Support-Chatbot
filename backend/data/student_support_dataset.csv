@@ -1,0 +1,97 @@
+﻿ID,Category,Question,Answer
+1,Admissions,How can I apply for admission?,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+2,Admissions,What documents are required for admission?,"Academic transcripts, identity proof, photographs, and any required documents."
+3,Admissions,What are the eligibility criteria for admission?,Eligibility depends on the program.
+4,Admissions,Is there an application fee?,Application fee requirements vary.
+5,Admissions,When does the admission process begin?,Admission dates are announced on the official website.
+6,Admissions,Can I apply for multiple courses?,This depends on institutional policy.
+7,Admissions,How can I check my admission status?,Log in to the admission portal.
+8,Admissions,Can I edit my application after submission?,Contact the admissions office.
+9,Admissions,Are admissions based on entrance exams?,Some programs require entrance exams.
+10,Admissions,Who should I contact for admission queries?,Contact the admissions office.
+11,Fees,How can I pay my tuition fees?,Fees can usually be paid online or at the accounts office.
+12,Fees,Can I pay fees online?,"Yes, online payment is generally available."
+13,Fees,What payment methods are accepted?,"Cards, bank transfer, and online banking."
+14,Fees,Can I pay fees in installments?,Depends on policy.
+15,Fees,What happens if I miss the fee deadline?,Late penalties may apply.
+16,Fees,Where can I download my fee receipt?,From the student portal.
+17,Fees,Can I get a fee refund?,Subject to refund policy.
+18,Fees,How do I check my payment status?,Check the student portal.
+19,Fees,Is there a late payment penalty?,"Yes, if applicable."
+20,Fees,Who should I contact for fee issues?,Accounts office.
+21,Library,Where is the library located?,The library is located in the academic block.
+22,Library,What are the library timings?,See the official website.
+23,Library,How many books can I borrow?,Depends on library policy.
+24,Library,How long can I keep a borrowed book?,Within the permitted borrowing period.
+25,Library,Can I renew borrowed books?,"Yes, if eligible."
+26,Library,Is there a digital library?,"Yes, many institutions provide one."
+27,Library,What if I lose a library book?,Report it immediately.
+28,Library,Can alumni use the library?,Depends on policy.
+29,Library,Is the library open on weekends?,Varies by institution.
+30,Library,Who should I contact for library issues?,The librarian.
+31,Attendance,What is the minimum attendance required?,Generally 75% attendance is expected.
+32,Attendance,Is 75% attendance compulsory?,Many institutions require it.
+33,Attendance,How is attendance calculated?,Based on attended classes.
+34,Attendance,Can I check my attendance online?,"Yes, through the portal."
+35,Attendance,What happens if attendance is low?,You may become ineligible for exams.
+36,Attendance,Can attendance be corrected?,Contact your instructor.
+37,Attendance,Who maintains attendance records?,Faculty members.
+38,Attendance,Is medical leave considered?,With valid documents.
+39,Attendance,Can attendance be improved?,Attend remaining classes regularly.
+40,Attendance,Who should I contact for attendance issues?,Department office.
+41,Examination,When are semester exams conducted?,Schedules are announced before exams.
+42,Examination,How do I download my admit card?,Use the student portal.
+43,Examination,What should I carry to the exam?,Admit card and ID.
+44,Examination,When are results announced?,After evaluation.
+45,Examination,Can I apply for revaluation?,"Yes, during the announced period."
+46,Examination,What happens if I miss an exam?,Contact the examination office.
+47,Examination,How do I check the exam timetable?,Check the portal.
+48,Examination,What is the passing criteria?,As per institutional regulations.
+49,Examination,Are calculators allowed?,Only if permitted.
+50,Examination,Who should I contact for exam issues?,Examination office.
+51,Hostel,How can I apply for hostel accommodation?,Apply through the hostel office.
+52,Hostel,What are the hostel timings?,Follow institutional rules.
+53,Hostel,What facilities are available?,"Wi-Fi, mess, laundry, security."
+54,Hostel,Are visitors allowed?,According to hostel rules.
+55,Hostel,Is Wi-Fi available?,Yes.
+56,Hostel,Can I change my room?,With approval.
+57,Hostel,Who is the hostel warden?,Hostel office provides details.
+58,Hostel,How are rooms allotted?,According to policy.
+59,Hostel,What if I have a complaint?,Report to hostel office.
+60,Hostel,Are hostel fees separate?,Yes.
+61,Student Portal,How do I log in to the student portal?,Use registered credentials.
+62,Student Portal,I forgot my password.,Use Forgot Password.
+63,Student Portal,Where can I see my grades?,In the portal.
+64,Student Portal,How do I update my profile?,Profile settings.
+65,Student Portal,Where can I download fee receipts?,Fees section.
+66,Student Portal,Where can I view attendance?,Attendance section.
+67,Student Portal,Can I register for courses?,"Yes, during registration."
+68,Student Portal,How do I update contact details?,Edit your profile.
+69,Student Portal,Why can't I log in?,Check credentials or contact IT.
+70,Student Portal,Who should I contact for portal issues?,IT help desk.
+71,General,What are the institution timings?,Refer to the official schedule.
+72,General,Where is the administrative office?,See the campus map.
+73,General,How do I contact student support?,Use the official help desk.
+74,General,Where can I find the academic calendar?,Official website.
+75,General,How do I update personal information?,Student portal.
+76,General,Is campus Wi-Fi available?,"Yes, in designated areas."
+77,General,Where can I find campus rules?,Student handbook.
+78,General,How do I submit feedback?,Feedback portal.
+79,General,Where can I get official notices?,Notice board or website.
+80,General,Who should I contact for general queries?,Student support office.
+81,Admissions,How do I get admission?,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+82,Admissions,How can I get admission into this college?,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+83,Admissions,Admission process,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+84,Admissions,How do I apply?,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+85,Admissions,I want to take admission.,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+86,Admissions,How do I enroll?,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+87,Admissions,Can I apply for admission online?,You can apply through the institution's online admission portal by completing the application form and uploading the required documents.
+88,General,where is the classroom located,the classrooms are located in the lecture theatre building
+89,General,whom can I contact for futher information,you can contact the receptionist at the front desk
+90,General,who is the incahrge for the information,you can contact the receptionist at the front desk
+91,General,whom can I talk to in this college,you can contact the receptionist at the front desk
+92,General,how to take futher information,you can contact the receptionist at the front desk
+93,General,what is the size of the college,it is 50 acres
+94,General,how to pay the fees,you can find the option to pay the fees at the official website of the college
+95,Hostel,how to pay the hostel fee?,you can check the fee structure on the official website of the college
+96,Hostel,how much is the hostel fee,you can find the option to pay the fees at the official website of the college
